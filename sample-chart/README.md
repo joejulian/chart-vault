@@ -4,7 +4,7 @@
 # Quickstart
 
 - The name of chart repos should be of the form `chart-${NAME}`. For example, `chart-foo-app` is the name of the repo which builds a chart named `foo-app`.
-- [Create](https://help.github.com/articles/creating-a-new-repository/) a new empty repo under the [`samsung-cnct`](https://github.com/samsung-cnct) org using the GitHub GUI, for example https://github.com/samsung-cnct/container-zabra .
+- [Create](https://help.github.com/articles/creating-a-new-repository/) a new empty repo under the [`samsung-cnct`](https://github.com/samsung-cnct) org using the GitHub GUI, for example https://github.com/samsung-cnct/chart-foo-app .
 - [Duplicate](https://help.github.com/articles/duplicating-a-repository/) this repo (https://github.com/samsung-cnct/template-chart) and push it to the `chart-foo-app` repo you created in the previous step. Note the arguments to clone and push.
 
 ```
